@@ -1,0 +1,109 @@
+Shogi
+
+1.P2g-2f     00:00:00  00:00:00
+2.P3c-3d     00:00:00  00:00:00
+3.P7g-7f     00:00:00  00:00:00
+4.P8c-8d     00:00:00  00:01:00
+5.P2f-2e     00:01:00  00:01:00
+6.P8d-8e     00:01:00  00:01:00
+7.G6i-7h     00:01:00  00:01:00
+8.G4a-3b     00:01:00  00:02:00
+9.P2e-2d     00:02:00  00:02:00
+10.P2cx2d    00:02:00  00:03:00
+11.R2hx2d    00:02:00  00:03:00
+12.P8e-8f    00:02:00  00:03:00
+13.P8gx8f    00:02:00  00:03:00
+14.R8bx8f    00:02:00  00:03:00
+15.R2dx3d    00:03:00  00:03:00
+16.B2bx8h+   00:03:00  00:03:00
+17.S7ix8h    00:03:00  00:03:00
+18.R8fx7f    00:03:00  00:03:00
+19.N8i-7g    00:24:00  00:03:00
+20.G3b-3c    00:24:00  00:07:00
+21.R3d-8d    00:25:00  00:07:00
+22.P*8b      00:25:00  00:07:00
+23.K5i-5h    00:26:00  00:07:00
+24.R7f-2f    00:26:00  00:09:00
+25.P*2h      00:26:00  00:09:00
+26.K5a-5b    00:26:00  00:09:00
+27.G4i-3h    00:27:00  00:09:00
+28.G6a-7b    00:27:00  00:10:00
+29.P2h-2g    00:28:00  00:10:00
+30.R2f-2b    00:28:00  00:10:00
+31.R8d-8f    00:32:00  00:10:00
+32.P8b-8c    00:32:00  00:10:00
+33.P9g-9f    00:41:00  00:10:00
+34.S3a-4b    00:41:00  00:13:00
+35.S8h-8g    00:47:00  00:13:00
+36.S7a-8b    00:47:00  00:15:00
+37.P9f-9e    00:54:00  00:15:00
+38.P7c-7d    00:54:00  00:25:00
+39.S8g-7f    00:58:00  00:25:00
+40.S8b-7c    00:58:00  00:33:00
+41.S7f-6e    00:59:00  00:33:00
+42.S7c-8d    00:59:00  00:54:00
+43.S3i-4h    01:09:00  00:54:00
+44.N8a-7c    01:09:00  01:13:00
+45.S6ex7d    01:14:00  01:13:00
+46.R2b-2d    01:14:00  01:27:00
+47.B*5f      01:15:00  01:27:00
+48.B*6d      01:15:00  01:48:00
+49.R8f-8i    01:24:00  01:48:00
+50.P*7f      01:24:00  01:49:00
+51.S7dx8c=   01:36:00  01:49:00
+52.B6d-5e    01:36:00  02:19:00
+53.S8cx7b=   01:53:00  02:19:00
+54.P*8h      01:53:00  02:26:00
+55.B5f-4e    02:32:00  02:26:00
+56.K5b-4a    02:32:00  02:29:00
+57.P5g-5f    02:33:00  02:29:00
+58.P8hx8i+   02:33:00  02:38:00
+59.P5fx5e    02:33:00  02:38:00
+60.P7fx7g+   02:33:00  02:56:00
+61.G7hx7g    02:33:00  02:56:00
+62.N7c-6e    02:33:00  03:00:00
+63.G7g-7h    02:42:00  03:00:00
+64.N*8f!     02:42:00  03:02:00
+65.P*7i      03:12:00  03:02:00
+66.N8fx7h+   03:12:00  03:13:00
+67.P7ix7h    03:12:00  03:13:00
+68.R*7i      03:12:00  03:14:00
+69.S7bx6c+   03:18:00  03:14:00
+70.R2d-7d    03:18:00  03:39:00
+71.P4g-4f    03:19:00  03:39:00
+72.R7dx7h+?  03:19:00  03:42:00
+73.K5h-4g    03:19:00  03:42:00
+74.R7ix2i+   03:19:00  03:42:00
+75.G*5b?!    03:56:00  03:42:00
+76.K4a-3a    03:56:00  03:43:00
+77.N*2c      03:58:00  03:43:00
+78.K3a-2b    03:58:00  03:46:00
+79.G5bx4b    03:58:00  03:46:00
+80.P*3d      03:58:00  03:48:00
+81.N2cx1a+   03:59:00  03:48:00
+82.K2bx1a    03:59:00  03:49:00
+83.L*2e      03:59:00  03:49:00
+84.N*3e      03:59:00  03:50:00
+85.K4g-3f    03:59:00  03:50:00
+86.N*4d      03:59:00  03:50:00
+
+Resigns      03:59:00  03:50:00
+
+Final Diagram
+
+Mate after 87.K2f Nx2g+ Gx2g (or Bx2g G3e K1f Gx2e Kx2e L*2c etc.) G3e K1f Gx2e K2e 
++Rx2g etc., so Watanabe resigned here. A game where Watanabe ended up with a losing 
+position without making a clear mistake. After the game, Watanabe questioned his own 
+opening strategy, suggesting that he should have attacked earlier instead of extending 
+the pawn on the 9th file. In any case, he is clearly not in great form, losing his 
+fourth official game in a row and going 2-0 down in this Kisei match. Habu can already 
+close out the match with the black pieces in the next game.
+
+Answer:
+P2g-2f P3c-3d P7g-7f P8c-8d P2f-2e P8d-8e G6i-7h G4a-3b P2e-2d P2cx2d R2hx2d P8e-8f P8gx8f R8bx8f R2dx3d B2b-3c R3d-3f S3a-2b P'8g R8f-8e R3f-2f K5a-4a R2f-2h S7a-6b S3i-3h G6a-5a P6g-6f P7c-7d S7i-6h P6c-6d G4i-5h P6d-6e P6fx6e P'6f K5i-4h N8a-7c P4g-4f P'8f P8gx8f R8ex8f P'8g R8fx7f P'7g R7f-7e P9g-9f R7ex6e P7g-7f R6e-8e P'6g P'8f P8gx8f R8ex8f P6gx6f R8fx7f S6h-6g R7f-8f P'8g R8f-8d P3g-3f P9c-9d N2i-3g P9d-9e P9fx9e P'9g P'2d P9g-9h+ L9ix9h P'8f S6g-7f P'3e S3h-4g P7d-7e S7fx7e R8dx2d R2hx2d B3cx2d P'7d N7c-8e P'2c S2bx2c P'2b P'2f
+
+Code to sanitize the game and remove timestamps
+
+```bash
+sed -E 's/\s+[0-9]{2}:[0-9]{2}:[0-9]{2}\s+[0-9]{2}:[0-9]{2}:[0-9]{2}//g' file.txt > file-sanitized.txt 
+```

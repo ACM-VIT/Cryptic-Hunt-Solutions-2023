@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing Page</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color = "black"
+  }
+  img {
+  --_g: 10% /45% 45% no-repeat linear-gradient(#000 0 0);
+  --m:
+    left   var(--_i,0%) top    var(--_g),
+    bottom var(--_i,0%) left   var(--_g),
+    top    var(--_i,0%) right  var(--_g),
+    right  var(--_i,0%) bottom var(--_g);
+  -webkit-mask: var(--m);
+          mask: var(--m);
+  filter: grayscale();
+  transition: .3s linear;
+  cursor: pointer;
+}
+img:hover {
+  --_i: 10%;
+  filter: grayscale(0);
+}
+  #image {
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+<!https://drive.google.com/file/d/15Xg5q0s4dOLcWpnDYK5stkYGwa362BxN/view?usp=drive_link>
+  <div id="image">
+    <img src="computer_image.png" alt="Click me to expand" width = "1080" height ="720">
+  </div>
+  <script>
+    const imageDiv = document.getElementById('image');
+    imageDiv.addEventListener('click', () => {
+      window.location.href = 'text-page.html';
+    });
+  </script>
+</body>
+</html>
