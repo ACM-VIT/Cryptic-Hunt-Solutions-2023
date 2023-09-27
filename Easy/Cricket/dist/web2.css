@@ -1,0 +1,56 @@
+
+.gimmehead
+{
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(72, 70, 70);
+    margin-bottom: 25px;
+    margin-left: 700px;
+    
+}
+
+.photu
+{
+    width: 600px;
+    height: 700px;
+    margin-left: 450px;
+}
+.nohead2
+{
+    font-family: Arial;
+    font-size: 12.5px;
+    font-weight: bold;
+    color:rgb(57, 56, 56);
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.button
+{
+    margin-left: 10px;
+    
+}
+.inp
+{
+    margin-left: 680px;
+    margin-top: 10px;
+    
+}
+.sub
+{
+    background-color: rgb(71, 71, 229);
+    color: white;
+    font-family: Arial;
+    border-radius: 2px;
+    border-color: rgb(71, 71, 229);
+    margin-left: 730px;
+    margin-top: 10px;
+    
+}
+
+
+
+
